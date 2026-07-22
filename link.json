@@ -1,0 +1,32 @@
+[
+	{
+		"label": "プロンプト入力補助ツール",
+		"url": "https://kbc-yam.github.io/ClickCopy/",
+		"position": "left",
+		"width": "50%"
+	},
+	{
+		"label": "ChatGPT",
+		"url": "https://openai.com/ja-JP/chatgpt/",
+		"position": "right",
+		"width": "50%"
+	},
+	{
+		"label": "Paiza io",
+		"url": "https://paiza.io/ja/",
+		"position": "center",
+		"width": "80%"
+	},
+	{
+		"label": "Google",
+		"url": "https://www.google.com/?hl=ja",
+		"position": "right",
+		"width": "50%"
+	},
+	{
+		"label": "Gemini",
+		"url": "https://gemini.google.com/app?hl=ja",
+		"position": "right",
+		"width": "50%"
+	}
+]
