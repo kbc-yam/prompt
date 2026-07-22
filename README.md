@@ -1,3 +1,3 @@
 
 
-https://kbc-yam.github.io/Prompt/
+https://kbc-yam.github.io/prompt/
