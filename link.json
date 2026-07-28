@@ -18,14 +18,14 @@
 		"width": "50%"
 	},
 	{
-		"label": "Google",
-		"url": "https://www.google.com/?hl=ja",
+		"label": "Gemini",
+		"url": "https://gemini.google.com/app?hl=ja",
 		"position": "right",
 		"width": "50%"
 	},
 	{
-		"label": "Gemini",
-		"url": "https://gemini.google.com/app?hl=ja",
+		"label": "Google",
+		"url": "https://www.google.com/?hl=ja",
 		"position": "right",
 		"width": "50%"
 	}
